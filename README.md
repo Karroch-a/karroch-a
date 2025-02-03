@@ -22,7 +22,7 @@ I'm a passionate full-stack developer specializing in TypeScript, with expertise
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdellah-azeroual&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karroch-a&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
 - Full-stack development
