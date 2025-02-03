@@ -23,6 +23,7 @@ I'm a passionate full-stack developer specializing in TypeScript, with expertise
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karroch-a&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karroch-a&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Achievements
 - Full-stack development
