@@ -19,9 +19,6 @@ I'm a passionate full-stack developer specializing in TypeScript, with expertise
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karroch)
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karroch-a&theme=nord_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karroch-a&theme=nord_dark"/>
-
 ## 🏆 Achievements
 - Full-stack development
 - Cross-platform mobile development
